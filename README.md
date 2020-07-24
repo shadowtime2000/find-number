@@ -7,3 +7,4 @@ You can install this package from [npm](https://www.npmjs.com/package/find-numbe
 
 ## Usage
 The usage of this package is patterned like this: `findNumber(<starting number here>, <ending number here>, <increment here>, <function which decides if it matches condition>)`.
+The `findNumber` function is asynchronous. 
